@@ -1,3 +1,3 @@
 # sample drawing app
 ## image
-![](/example.gif)
+<img src="/example.gif" width=50%>
